@@ -1,4 +1,4 @@
-# Waze Driver Churn Analysis
+# Waze User Churn Analysis
 
 ## Project Title
 **Understanding driving behavior and churn patterns among Waze users**
